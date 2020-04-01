@@ -1,6 +1,6 @@
 #!bash
 
-source ../_base-configs.sh
+source ./_base-configs.sh
 base_url
 
 curl \
