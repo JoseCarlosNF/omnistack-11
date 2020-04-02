@@ -7,7 +7,7 @@ curl \
 --request POST \
 --header "Content-Type: application/json" \
 --data '{
-  "name": "APAD",
+  "name": "Nova ONG",
   "email": "contato@apad.com.br",
   "whatsapp": "91912341234",
   "city": "Belém",

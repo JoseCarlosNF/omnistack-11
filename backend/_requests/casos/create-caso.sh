@@ -7,9 +7,9 @@ curl \
 --request POST \
 --header 'Content-Type: application/json' \
 --data '{
-  "title": "Caso 4",
-  "description": "detalhes do caso",
-  "value": 200
+  "title": "Novissimo Caso",
+  "description": "alguns detlhaes sobre o caso",
+  "value": 50
   }' \
---header 'Authorization: 831702f9' \
+--header 'Authorization: cef35a85' \
 http://$BASE_URL:$PORT/incidents
